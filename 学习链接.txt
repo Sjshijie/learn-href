@@ -11,6 +11,7 @@ css：https://juejin.im/post/5b1e2b50f265da6e5546c15d
         
         https://github.com/mowatermelon/studyNode/issues/208
         http://hai.li/2017/03/08/css-multiline-overflow-ellipsis.html（省略号）
+        https://segmentfault.com/a/1190000008767416（屏幕适配）
 
 canvas ：https://github.com/whxaxes/canvas-test
 
