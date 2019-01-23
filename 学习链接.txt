@@ -22,3 +22,5 @@ promise ：https://segmentfault.com/a/1190000009478377
 面试：https://github.com/paddingme/Front-end-Web-Development-Interview-Question
 
 webpcak：https://www.cnblogs.com/dashnowords/archive/2018/09/04/9572755.html
+
+git:https://learngitbranching.js.org/
