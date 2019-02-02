@@ -28,3 +28,5 @@ git:https://learngitbranching.js.org/
 手写koa：https://zhuanlan.zhihu.com/p/35040744
 
 进阶：https://segmentfault.com/a/1190000012646488?tdsourcetag=s_pctim_aiomsg
+
+三次握手：https://www.zhihu.com/question/24853633
