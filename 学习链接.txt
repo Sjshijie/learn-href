@@ -35,3 +35,6 @@ git:https://learngitbranching.js.org/
 decorator:http://www.liuhaihua.cn/archives/115548.html
 
 抽奖：https://codepen.io/pizizz/pen/vyedWX?tdsourcetag=s_pctim_aiomsg
+
+浏览器:https://segmentfault.com/a/1190000009975744?tdsourcetag=s_pctim_aiomsg
+https://segmentfault.com/a/1190000013662126?tdsourcetag=s_pctim_aiomsg
