@@ -44,3 +44,7 @@ flex瀑布流 ：https://www.cnblogs.com/a-cat/p/8618675.html
 动画:https://www.w3cplus.com/javascript/animating-layouts-with-the-flip-technique.html
 
 vuecli config:https://github.com/staven630/vue-cli3-config#removecss
+
+公众号：1175702478@qq.com
+小游戏：13120760631m@sina.cn
+小程序：stepan_sj@sina.cn
