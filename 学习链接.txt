@@ -48,6 +48,8 @@ vuecli config:https://github.com/staven630/vue-cli3-config#removecss
 
 H5移动端弹出键盘时遮挡输入框 https://blog.csdn.net/qq_37231097/article/details/76614702
 
+computed:https://segmentfault.com/a/1190000010408657?tdsourcetag=s_pctim_aiomsg
+
 公众号：1175702478@qq.com
 小游戏：13120760631m@sina.cn
 小程序：stepan_sj@sina.com
