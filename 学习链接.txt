@@ -50,6 +50,9 @@ H5移动端弹出键盘时遮挡输入框 https://blog.csdn.net/qq_37231097/arti
 
 computed:https://segmentfault.com/a/1190000010408657?tdsourcetag=s_pctim_aiomsg
 
+重排，重绘：http://www.dailichun.com/2018/01/21/js_singlethread_eventloop.html
+                https://www.jianshu.com/p/a32b890c29b1
+
 公众号：1175702478@qq.com
 小游戏：13120760631m@sina.cn
 小程序：stepan_sj@sina.com
