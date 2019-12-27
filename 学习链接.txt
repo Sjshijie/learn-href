@@ -55,6 +55,8 @@ computed:https://segmentfault.com/a/1190000010408657?tdsourcetag=s_pctim_aiomsg
                 https://www.jianshu.com/p/a32b890c29b1
 react setState:https://segmentfault.com/a/1190000015821018
 
+socket：https://blog.csdn.net/lijiecong/article/details/50781417
+
 公众号：1175702478@qq.com
 小游戏：13120760631m@sina.cn
 小程序：stepan_sj@sina.com
