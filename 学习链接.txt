@@ -60,6 +60,10 @@ socket：https://blog.csdn.net/lijiecong/article/details/50781417
 
 js精度问题：https://xieyufei.com/2018/03/07/JS-Decimal-Accuracy.html
 
+eventloop : https://zhuanlan.zhihu.com/p/257141620
+
+js解密：https://www.yuque.com/coreadvance
+
 公众号：1175702478@qq.com
 小游戏：13120760631m@sina.cn
 小程序：stepan_sj@sina.com
