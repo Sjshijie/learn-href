@@ -64,6 +64,8 @@ eventloop : https://zhuanlan.zhihu.com/p/257141620
 
 js解密：https://www.yuque.com/coreadvance
 
+面经：https://mp.weixin.qq.com/s?__biz=Mzg3ODUyODIyNA==&mid=2247485733&idx=1&sn=9ddfc4e4323ad507c47386794550ec13&chksm=cf131aaaf86493bc7ad778fd7a8c96f4c1fb81e53bb1ec128e9e9838c5f279c2303cfc6b6d11&scene=132#wechat_redirect
+
 公众号：1175702478@qq.com
 小游戏：13120760631m@sina.cn
 小程序：stepan_sj@sina.com
