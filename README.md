@@ -1,0 +1,70 @@
+技术胖：http://jspang.com/
+
+博客：https://yuchengkai.cn/docs/frontend/#%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B
+
+css：https://juejin.im/post/5b1e2b50f265da6e5546c15d
+
+        https://chokcoco.github.io/CSS-Inspiration/#/./init
+    
+        http://www.daqianduan.com/5989.html
+        
+        https://segmentfault.com/a/1190000017504454?tdsourcetag=s_pctim_aiomsg (有角的tips)
+        
+        https://github.com/mowatermelon/studyNode/issues/208
+        http://hai.li/2017/03/08/css-multiline-overflow-ellipsis.html（省略号）
+        https://segmentfault.com/a/1190000008767416（屏幕适配）
+
+canvas ：https://github.com/whxaxes/canvas-test
+
+promise ：https://segmentfault.com/a/1190000009478377
+
+节流和防抖：https://github.com/mqyqingfeng/Blog/issues/26
+
+面试：https://github.com/paddingme/Front-end-Web-Development-Interview-Question
+
+webpcak：https://www.cnblogs.com/dashnowords/archive/2018/09/04/9572755.html
+
+git:https://learngitbranching.js.org/
+
+手写koa：https://zhuanlan.zhihu.com/p/35040744
+
+进阶：https://segmentfault.com/a/1190000012646488?tdsourcetag=s_pctim_aiomsg
+
+三次握手：https://www.zhihu.com/question/24853633
+        https://mp.weixin.qq.com/s/teTtnVqJeIvl3bVjXmCWKA
+
+decorator:http://www.liuhaihua.cn/archives/115548.html
+
+抽奖：https://codepen.io/pizizz/pen/vyedWX?tdsourcetag=s_pctim_aiomsg
+
+浏览器:https://segmentfault.com/a/1190000009975744?tdsourcetag=s_pctim_aiomsg
+https://segmentfault.com/a/1190000013662126?tdsourcetag=s_pctim_aiomsg
+
+flex瀑布流 ：https://www.cnblogs.com/a-cat/p/8618675.html
+
+动画:https://www.w3cplus.com/javascript/animating-layouts-with-the-flip-technique.html
+
+vuecli config:https://github.com/staven630/vue-cli3-config#removecss
+
+
+H5移动端弹出键盘时遮挡输入框 https://blog.csdn.net/qq_37231097/article/details/76614702
+                               https://blog.csdn.net/deeplies/article/details/74388061
+
+computed:https://segmentfault.com/a/1190000010408657?tdsourcetag=s_pctim_aiomsg
+
+重排，重绘：http://www.dailichun.com/2018/01/21/js_singlethread_eventloop.html
+                https://www.jianshu.com/p/a32b890c29b1
+react setState:https://segmentfault.com/a/1190000015821018
+
+socket：https://blog.csdn.net/lijiecong/article/details/50781417
+
+js精度问题：https://xieyufei.com/2018/03/07/JS-Decimal-Accuracy.html
+
+eventloop : https://zhuanlan.zhihu.com/p/257141620
+
+js解密：https://www.yuque.com/coreadvance
+
+公众号：1175702478@qq.com
+小游戏：13120760631m@sina.cn
+小程序：stepan_sj@sina.com
+       a66377172@163.com
